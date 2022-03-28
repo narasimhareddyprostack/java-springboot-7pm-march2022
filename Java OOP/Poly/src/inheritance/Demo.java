@@ -14,6 +14,8 @@ public class Demo {
 		//Child c2 = new Parent();
 		Parent p2 = new Child();
 		p2.m1();
+		//p2.m2();
+		
 		
 	}
 

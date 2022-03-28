@@ -6,7 +6,7 @@ public class Savings_Account extends Account {
 	public double getMin_Bal() {
 		return min_Bal;
 	}
-
+	
 	public void setMin_Bal(double min_Bal) {
 		this.min_Bal = min_Bal;
 	}
