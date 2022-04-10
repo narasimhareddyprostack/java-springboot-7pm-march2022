@@ -3,7 +3,10 @@ package WrapperClassesEs;
 public class StringToObject {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String s = "1000";
+		boolean flag = true;
+		Boolean b = flag;  //autoboxing
+		
 
 	}
 
