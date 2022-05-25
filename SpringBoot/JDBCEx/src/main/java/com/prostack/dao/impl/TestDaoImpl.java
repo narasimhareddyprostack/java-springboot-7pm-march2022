@@ -26,5 +26,11 @@ JdbcTemplate jt;
 		return jt.queryForList("select * from emp");
 	}
 
+	@Override
+	public int noOfEmployee() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 
 }
