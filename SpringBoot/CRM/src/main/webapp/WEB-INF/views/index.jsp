@@ -4,7 +4,8 @@
 </head>
 <body>
 	<h1>CRM Application Example</h1>
-	New User ? <a href="register">Registration</a>
+	New User ? <a href="register">Registration</a> 
+	<br/>
 	Existing User ?<a href="login">Login</a>
 </body>
 </html>
