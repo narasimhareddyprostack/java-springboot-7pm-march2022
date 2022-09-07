@@ -1,6 +1,8 @@
 import React from 'react'
-import Message from './Message/Message'
+//import Message from './Message/Message'
 import Registration from './FormEX/Registration'
+import FactorialEx from './Hooks/FactorialEx'
+import Message from './Hooks/Message'
 import User from './User/User'
 const App = () => {
   return (
@@ -10,7 +12,8 @@ const App = () => {
         <a className="navbar-brand" href="#">Registration Example</a>
       </nav>
       {/*  <Message /> */}
-      <Registration />
+      {/*  <FactorialEx /> */}
+      <Message />
     </div>
   )
 }
